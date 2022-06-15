@@ -1,0 +1,144 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "value":"C160104001",
+        "tabulation":"Ting",
+        "client_id": 1,
+        "changedate": "20210505T03:50",
+        "selectedSPEC":"CH5128B186OTV5TN2TX",
+        "givespec":[
+          "CH5128B186OTV5TN2TZ",
+          "CH5128B186OTV5TN2TX",
+          "CH5128B186OTV5TN2TC",
+          "CH5128B186OTV5TN2TN"
+        ],
+        
+        "IClevel":["ETTT","ECTT","EXCT","EZCT","EXXT"],
+        "ICSize":["8x10.5","8x9","8x8","8x7.5","8x6"],
+        "picks":[
+          {"id":1,
+            "work_id":"C160104001",
+            "r":"567"},{
+              "id":2,
+              "work_id":"C160104001",
+              "r":"123"}
+        ],
+        "productspec1":"DDRIIII",
+        "productspec2":"2660MHZ",
+        "productspec3":"Long-D",
+        
+        "PCBNo":"KO-8118A",
+        "PCBCL":"10/11/11/27",
+  
+        "TestProgram1":["Dual Channel","Multi Channel"],
+        "TestProgram2":["Passmark Memtest86","Passmark Memtest87","Passmark Memtest88","Passmark Memtest89"],
+        "TestProgram3":["1.5V","2.0","2.5","3.0"],
+  
+        "MotherBoard1":["Intel Z97 (ASUS Z97-P)","Intel Z82 (ASUS Z97-X)","Intel Z72 (ASUS Z97-Z)"],
+        "MotherBoard2":"",
+  
+        "Vendor":["GH","EH","ZH","XH","NH"],
+        "client":["PY02","PY03","PY04","PY05","PY06"],
+        
+        "OrderNo":"216188",
+        "OrederATR":["AD15080","AD15081","AD15082","AD15083","AD15084"],
+        
+        "Quantity":"300",
+        "Backup":"1",
+        "RepairIC":"150",
+        
+        "PO Qty":"360",
+  
+        "Expect":"15.12.30 22:00",
+        "Actual":"16/01/04 11:29",
+  
+        "Shipping":["USA","JAPAN","CHINA","TAIWAN","AFRICA"],
+        
+        "SPD Code":"#DDR3-PY120",
+        "CL":["10/11/11/28","10/11/11/29","10/11/11/30","10/11/11/31","10/11/11/32"],
+         
+        "PickMenuNo":"1010412281100",
+        "LotNo":"",
+        "ModulePN":"DH8GB58L186HEN2K87B",
+        "ICPN":"CH5128B186OTV5TN2TX",
+        "LotStorage":"",
+        "LotStorageNo":"",
+        "Testclass":["SMT測試","SST測試","SPT測試"],
+        "Testvarible":"",
+        "Enterstoragedie":["SMT測試","SST測試","SPT測試"],
+        "Enterstoragefreq":["SMT測試","SST測試","SPT測試"]
+        
+    },{
+      "id": 2,
+      "value":"C160104002",
+      "tabulation":"Xing",
+      "client_id": 1,
+      "changedate": "20210505T03:50",
+      "selectedSPEC":"CH5128B186OTV5TN2TC",
+      "givespec":["CH5128B186OTV5TN2TZ",
+        "CH5128B186OTV5TN2TX",
+        "CH5128B186OTV5TN2TC",
+        "CH5128B186OTV5TN2TN"
+      ],
+      
+      "IClevel":["ETTT","ECTT","EXCT","EZCT","EXXT"],
+      "ICSize":["8x10.5","8x9","8x8","8x7.5","8x6"],
+      
+      "productspec1":"DDRIII",
+      "productspec2":"1866MHZ",
+      "productspec3":"Long-D",
+      
+      "PCBNo":"KO-8117A",
+      "PCBCL":"10/11/11/28",
+  
+      "TestProgram1":["Dual Channel","Multi Channel"],
+      "TestProgram2":["Passmark Memtest86","Passmark Memtest87","Passmark Memtest88","Passmark Memtest89"],
+      "TestProgram3":["1.5V","2.0","2.5","3.0"],
+  
+      "MotherBoard1":["Intel Z97 (ASUS Z97-P)","Intel Z82 (ASUS Z97-X)","Intel Z72 (ASUS Z97-Z)"],
+      "MotherBoard2":"",
+  
+      "Vendor":["GH","EH","ZH","XH","NH"],
+      "client":["PY02","PY03","PY04","PY05","PY06"],
+      
+      "OrderNo":"216166",
+      "OrederATR":["AD15080","AD15081","AD15082","AD15083","AD15084"],
+      
+      "Quantity":"200",
+      "Backup":"0",
+      "RepairIC":"120",
+      
+      "POQty":"300",
+  
+      "Expect":"15.12.30 12:00",
+      "Actual":"16/01/05 10:29",
+  
+      "Shipping":["USA","JAPAN","CHINA","TAIWAN","AFRICA"],
+      
+      "SPDCode":"#DDR3-PY115",
+      "CL":["10/11/11/28","10/11/11/29","10/11/11/30","10/11/11/31","10/11/11/32"],
+       
+      "PickMenuNo":"1010412280006",
+      "LotNo":"",
+      "ModulePN":"DH8GB58L186HEN2K87A",
+      "ICPN":"CH5128B186OTV5TN2TZ",
+      "LotStorage":"",
+      "LotStorageNo":"",
+      "Testclass":["SMT測試","SST測試","SPT測試"],
+      "Testvarible":"",
+      "Enterstoragedie":["SMT測試","SST測試","SPT測試"],
+      "Enterstoragefreq":["SMT測試","SST測試","SPT測試"]
+      }
+  ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

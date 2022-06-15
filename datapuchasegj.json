@@ -1,0 +1,170 @@
+{
+    "comments": [],
+    "posts": [
+        {
+            "productnumberID":"     ",
+            "data":[
+                {
+                    "productnumberID":"",
+                    "description":"",
+                    "vendor":"",
+                    "person":"",
+                    "billdate":"",
+                    "purchasedate":"",
+                    "productmodel":"",
+                    "productspeficition":"",
+                    "poNo":"",
+                    "lotNo":"",
+                    "packagemodel":"",
+                    "purchasenumber":"",
+                    "purchasevariant":"",
+                    "passvariant":"",
+                    "failvariant":"",
+                    "storageconfirm":null,
+                    "storageconfirmdate":"",
+                    "iqcNo":""
+                }
+            ]
+        },{
+            "productnumberID":"GJ1507220001",
+            "data":[
+                {
+                    "productnumberID":"GJ1507220001",
+                    "description":"Nand Flash/在HO-TOP測試   工單號碼:GJ1507220001",
+                    "vendor":"鉅景",
+                    "listvendor":[
+                        "鉅景","復格"
+                    ],
+                    "person":"Cindy",
+                    "billdate":"2015/1/5 下午 01:43:35",
+                    "purchasedate":"2015/1/5",
+                    "productmodel":"CT49488DD486C1",
+                    "productspeficition":"",
+                    "poNo":"PU14120102",
+                    "lotNo":"H22066D",
+                    "packagemodel":"10x13 119 ball",
+                    "purchasenumber":"",
+                    "purchasevariant":39451,
+                    "passvariant":0,
+                    "failvariant":0,
+                    "storageconfirm":true,
+                    "storageconfirmdate":"2015/1/5 下午 01:44:52",
+                    "iqcNo":"IQ10401050001"
+                }
+             ]
+        },{
+            "productnumberID":"GJ1501130002",
+            "data":[
+                {
+                    "productnumberID":"GJ1501130002",
+                    "description":"Nand Flash / 在HO-TOP測試 工單號碼:GJ1501130002",
+                    "vendor":"復格",
+                    "listvendor":[
+                        "鉅景","復格"
+                    ],
+                    "person":"Cindy",
+                    "billdate":"2015/1/13 下午 03:09:43",
+                    "purchasedate":"2015/1_/13",
+                    "productmodel":"CT49248DD486C1",
+                    "productspeficition":"",
+                    "poNo":"PU15010002",
+                    "lotNo":"H59096D",
+                    "packagemodel":"10x13 119 ball",
+                    "purchasenumber":"",
+                    "purchasevariant":27892,
+                    "passvariant":0,
+                    "failvariant":0,
+                    "storageconfirm":false,
+                    "storageconfirmdate":"2015/1/13 下午 03:11:30",
+                    "iqcNo":"IQ10401130001"
+                  }
+                ]
+            },{
+                    "productnumberID":"GJ1501130004",
+                    "data":[
+                        {
+                            "productnumberID":"GJ1501130004",
+                            "description":"Nand Flash/在HO-TOP測試   工單號碼:GJ1501130004",
+                            "vendor":"鉅景",
+                            "listvendor":[
+                                "鉅景","復格"
+                            ],
+                            "person":"Cindy",
+                            "billdate":"2015/1/13 下午 03:16:01",
+                            "purchasedate":"2014/1_/13",
+                            "productmodel":"CT49488DD486C1",
+                            "productspeficition":"",
+                            "poNo":"PU15010025",
+                            "lotNo":"H66010D",
+                            "packagemodel":"10x13 119 ball",
+                            "purchasenumber":"",
+                            "purchasevariant":11473,
+                            "passvariant":0,
+                            "failvariant":0,
+                            "storageconfirm":true,
+                            "storageconfirmdate":"2015/1/13 下午 03:17:20",
+                            "iqcNo":"IQ10401130004"
+                        }
+                    ]
+                },{
+                    "productnumberID":"GJ1501130003",
+                    "data":[
+                        {
+                            "productnumberID":"GJ1501130003",
+                            "description":"Nand Flash/在HO-TOP測試   工單號碼:GJ1501130003",
+                            "vendor":"鉅景",
+                            "listvendor":[
+                                "鉅景","復格"
+                            ],
+                            "person":"Cindy",
+                            "billdate":"2015/1/13 下午 03:14:06",
+                            "purchasedate":"2015/1_/13",
+                            "productmodel":"CT49248DD486C1",
+                            "productspeficition":"",
+                            "poNo":"PU15010019",
+                            "lotNo":"H90010D",
+                            "packagemodel":"10x13 119 ball",
+                            "purchasenumber":"",
+                            "purchasevariant":28263,
+                            "passvariant":0,
+                            "failvariant":0,
+                            "storageconfirm":true,
+                            "storageconfirmdate":"2015/1/13 下午 03:15:06",
+                            "iqcNo":"IQ10401130003"
+                        }
+                    ]
+                }
+    ],
+    "storagemodal": [
+      {
+        "packagemodel":"10x13 110 ball",
+        "productmodel": 
+        "CT49488DD486C1"  
+      },{
+        "packagemodel":"10x13 119 ball",
+       "productmodel": 
+       "CT49248DD962D1"
+     },
+     {
+        "packagemodel":"10x13 137 ball",
+       "productmodel":
+        "CT49248NS962D1"
+     },
+     {
+        "packagemodel":"9x9 104 ball",
+       "productmodel": 
+        "CT49488DD486C1"
+     },
+     {
+       "productmodel":    
+       "CT83486C1"
+     },
+     {
+       "productmodel": 
+       "CT83962C1"
+     }
+     ],
+    "profile": {
+      "name": "typicode"
+    }
+}

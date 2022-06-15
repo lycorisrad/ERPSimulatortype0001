@@ -1,0 +1,42 @@
+{
+    "posts": [
+      {
+        "vendor": "PY01",
+        "Location": "0000000000193"
+      },{
+        "vendor": "PY02",
+        "Location": "0000000000193"
+      },{
+        "vendor": "PY02",
+        "Location": "0000000000194"
+      },{
+        "vendor": "PY01",
+        "Location": "0000000000194"
+      },{
+        "vendor": "PY01",
+        "Location": "0000000000195"
+      },{
+        "vendor": "PY02",
+        "Location": "0000000000195"
+      },{
+        "vendor": "PY01",
+        "Location": "0000000000196"
+      },{
+        "vendor": "PY02",
+        "Location": "0000000000196"
+      },{
+        "vendor": "PY01",
+        "Location": "0000000000197"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

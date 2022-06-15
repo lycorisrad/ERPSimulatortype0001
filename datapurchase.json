@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "data": {
+        "id": "aaaaa",
+        "description": "",
+        "person": "",
+        "buyNumberDate": {
+          "date": ""
+        },
+        "iddata": []
+      },
+      "id": 1
+    }
+  ],
+  "liststorageclass": [
+    {
+      "storageclass": "101"
+    },
+    {
+      "storageclass": "102"
+    },
+    {
+      "storageclass": "103"
+    }
+  ],
+  "listlevel": [
+    {
+      "level": "Org"
+    },
+    {
+      "level": "ETTT"
+    },
+    {
+      "level": "Prg"
+    }
+  ],
+  "listbackNumber": [
+    {
+      "backNumber": ""
+    }
+  ],
+  "listproductnumber": [
+    {
+      "productnumber": "PSHEDB7"
+    }
+  ],
+  "listPCBNo": [
+    {
+      "PCBNo": ""
+    }
+  ],
+  "listvendor": [
+    {
+      "vendor": ""
+    }
+  ]
+}

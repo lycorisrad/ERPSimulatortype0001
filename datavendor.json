@@ -1,0 +1,77 @@
+{
+  
+    "posts": [
+        {
+            "id" : "",
+            "vendorname":"",
+            "contactperson":"",
+            "commonnumber":"",
+            "vendoraddress":"",
+            "phonenumber":"",
+            "fax":"",
+            "paymethod":""
+        },
+       {
+            "id" : "GS001",
+            "vendorname":"高陞有限公司",
+            "contactperson":"Leo",
+            "commonnumber":"85069697",
+            "vendoraddress":"新北市新店區北新路三段82號9樓之2",
+            "phonenumber":"(02)8914-6038",
+            "fax":"(02)28914-6097",
+            "paymethod":""
+        },{
+            "id" : "BS",
+            "vendorname":"BS",
+            "contactperson":"",
+            "commonnumber":"",
+            "vendoraddress":"",
+            "phonenumber":"",
+            "fax":"",
+            "paymethod":""
+        },{
+            "id" : "TT01",
+            "vendorname":"泰特科技股份有限公司",
+            "contactperson":"Angel",
+            "commonnumber":"70737637",
+            "vendoraddress":"221新北市汐止區新台五路一段90號17F",
+            "phonenumber":"02-8696-1088",
+            "fax":"02-26963951",
+            "paymethod":"貨到三天付美金"
+        },{
+            "id" : "PQI",
+            "vendorname":"PQI",
+            "contactperson":"",
+            "commonnumber":"",
+            "vendoraddress":"",
+            "phonenumber":"",
+            "fax":"",
+            "paymethod":""
+        },{
+            "id" : "GW",
+            "vendorname":"GW",
+            "contactperson":"",
+            "commonnumber":"",
+            "vendoraddress":"Room 1608 - 1609, 16/F, Nan Fung Commercial Centre, 19 Lam Lok Street, Kowloon Bay, Hong Kong.",
+            "phonenumber":"",
+            "fax":"",
+            "paymethod":""
+        },{
+            "id" : "GH001",
+            "vendorname":"季鴻股份有限公司",
+            "contactperson":"Kico",
+            "commonnumber":"13141138",
+            "vendoraddress":"114台北市內湖區行愛路78巷28號4樓之3",
+            "phonenumber":"02-2791-1481",
+            "fax":"02-2791-3625",
+            "paymethod":"OA 7days"
+        }
+    ],
+    "comments": [
+     
+    ],
+
+    "profile": {
+      "name": "typicode"
+    }
+  }

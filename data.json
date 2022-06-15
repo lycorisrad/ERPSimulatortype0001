@@ -1,0 +1,294 @@
+{
+  
+  "posts": [
+    {
+      "vendor": [
+        "PNY01",
+        "PNY02",
+        "PNY03",
+        "PNY04"
+      ],
+      "id": "0000000000193",
+      "storagevendor": "PNY01",
+      "description": "原借測170 請借開 1. I5TY4G83MFR-DCYN",
+      "person": "Purass",
+      "buyNumberDate": "2016/1/4 上午 11:56:15",
+      "storageclass": "101",
+      "level": "Org",
+      "bollowNumber": "PNY01-01",
+      "backNumber": "",
+      "pregivedate": "",
+      "actdate": "2016/1/4 下午 12:33:01",
+      "productnumber": "CH5128B160OHMPBJ1XM",
+      "PCBNo": "",
+      "numberPrice": "",
+      "shipping": "84",
+      "actually": "84",
+      "didnotenter": "0",
+      "backupProduct" : "",
+      "changeProduct" :"",
+      "description2" : "",
+      "enterPackUnconfirm": false,
+      "storageConfrim" : false,
+      "invoiceNumber": "",
+      "storageConfirmDate" : ""
+    },
+    {
+      "vendor": [
+        "PNY01",
+        "PNY02",
+        "PNY03",
+        "PNY04"
+      ],
+      "id": "0000000000194",
+      "storagevendor": "PNY02",
+      "description": "原借測170 請借開 1. I5TY4G83MFR-DCYN",
+      "person": "Fzrass",
+      "buyNumberDate": "2016/1/4 上午 11:56:15",
+      "storageclass": "102",
+      "level": "Prg",
+      "bollowNumber": "PNY01-02",
+      "backNumber": "",
+      "pregivedate": "",
+      "actdate": "2016/1/4 下午 12:33:01",
+      "productnumber": "CH5128B160OHMPBJ1XC",
+      "PCBNo": "",
+      "numberPrice": "",
+      "shipping": "84",
+      "actually": "84",
+      "didnotenter": "0",
+      "backupProduct" : "",
+      "changeProduct" :"",
+      "description2" : "",
+      "enterPackUnconfirm": true,
+      "storageConfrim" : true,
+      "invoiceNumber": "",
+      "storageConfirmDate" : ""
+
+    },
+    {
+      "vendor": [
+        "PNY01",
+        "PNY02",
+        "PNY03",
+        "PNY04"
+      ],
+      "id": "0000000000195",
+      "storagevendor": "PNY03",
+      "description": "原借測170 請借開 1. I5TY4G83MFR-DCYN",
+      "person": "Xarass",
+      "buyNumberDate": "2016/1/4 上午 11:56:15",
+      "storageclass": "104",
+      "level": "Hrg",
+      "bollowNumber": "PNY01-03",
+      "backNumber": "",
+      "pregivedate": "",
+      "actdate": "2016/1/4 下午 12:33:01",
+      "productnumber": "CH5128B160OHMPBJ1ZX",
+      "PCBNo": "",
+      "numberPrice": "",
+      "shipping": "84",
+      "actually": "84",
+      "didnotenter": "0",
+      "backupProduct" : "",
+      "changeProduct" :"",
+      "description2" : "",
+      "enterPackUnconfirm": false,
+      "storageConfrim" : true,
+      "invoiceNumber": "",
+      "storageConfirmDate" : ""
+    },
+    {
+      "vendor": [
+        "PNY01",
+        "PNY02",
+        "PNY03",
+        "PNY04"
+      ],
+      "id": "0000000000196",
+      "storagevendor": "PNY01",
+      "description": "原借測170 請借開 1. I5TY4G83MFR-DCYN",
+      "person": "ssssaaa",
+      "buyNumberDate": "2016/1/4 上午 11:56:15",
+      "storageclass": "102",
+      "level": "Crg",
+      "bollowNumber": "PNY01-04",
+      "backNumber": "",
+      "pregivedate": "",
+      "actdate": "2016/1/4 下午 12:33:01",
+      "productnumber": "CH5128B160OHMPBJ1XM",
+      "PCBNo": "",
+      "numberPrice": "",
+      "shipping": "84",
+      "actually": "84",
+      "didnotenter": "0",
+      "backupProduct" : "",
+      "changeProduct" :"",
+      "description2" : "",
+      "enterPackUnconfirm": true,
+      "storageConfrim" : false,
+      "invoiceNumber": "",
+      "storageConfirmDate" : ""
+    },
+    {
+      "vendor": [
+        "PNY01",
+        "PNY02",
+        "PNY03",
+        "PNY04"
+      ],
+      "id": "0000000000197",
+      "storagevendor": "PNY04",
+      "description": "原借測170 請借開 1. I5TY4G83MFR-DCYN",
+      "person": "ureass",
+      "buyNumberDate": "2016/1/4 上午 11:56:15",
+      "storageclass": "100",
+      "level": "Hrg",
+      "bollowNumber": "PNY01-01",
+      "backNumber": "",
+      "pregivedate": "",
+      "actdate": "2016/1/4 下午 12:33:01",
+      "productnumber": "CH5128B160OHMPBJ1ZX",
+      "PCBNo": "",
+      "numberPrice": "",
+      "shipping": "84",
+      "actually": "84",
+      "didnotenter": "0",
+      "backupProduct" : "",
+      "changeProduct" :"",
+      "description2" : "",
+      "enterPackUnconfirm": false,
+      "storageConfrim" : false,
+      "invoiceNumber": "",
+      "storageConfirmDate" : ""
+    },
+    {
+      "vendor": [
+        "PNY01",
+        "PNY02",
+        "PNY03",
+        "PNY04"
+      ],
+      "id": "0000000000198",
+      "storagevendor": "PNY04",
+      "description": "原借測170 請借開 1. I5TY4G83MFR-DCYN",
+      "person": "Purass",
+      "buyNumberDate": "2016/1/4 上午 11:56:15",
+      "storageclass": "102",
+      "level": "Org",
+      "bollowNumber": "PNY01-01",
+      "backNumber": "",
+      "pregivedate": "",
+      "actdate": "2016/1/4 下午 12:33:01",
+      "productnumber": "CH5128B160OHMPBJ1XM",
+      "PCBNo": "",
+      "numberPrice": "",
+      "shipping": "84",
+      "actually": "84",
+      "didnotenter": "0",
+      "backupProduct" : "",
+      "changeProduct" :"",
+      "description2" : "",
+      "enterPackUnconfirm": false,
+      "storageConfrim" : false,
+      "invoiceNumber": "",
+      "storageConfirmDate" : ""
+    }
+  ],
+  "comments": [
+    {
+      "title": "倉別",
+      "field": "storageclass"
+    },
+    {
+      "title": "等級",
+      "field": "level"
+    },
+    {
+      "title": "借出單號",
+      "field": "bollowNumber"
+    },
+    {
+      "title": "退回單號",
+      "field": "backNumber"
+    },
+    {
+      "title": "預交日期",
+      "field": "pregivedate"
+    },
+    {
+      "title": "實際日期",
+      "field": "actdate"
+    },
+    {
+      "title": "產品代號",
+      "field": "productnumber"
+    },
+    {
+      "title": "PCB No.",
+      "field": "PCBNo"
+    },
+    {
+      "title": "單價",
+      "field": "numberPrice"
+    },
+    {
+      "title": "採購",
+      "field": "shipping"
+    },
+    {
+      "title": "實際",
+      "field": "actually"
+    },
+    {
+      "title": "未進",
+      "field": "didnotenter"
+    }
+  ],
+  "storageclass": [
+    {
+      "storageclass":"101",
+      "level" :"Org",
+      "backNumber" :"",
+      "productnumber": 
+      "CH5128B160OHMPBJ1XM"  
+    },{
+     "storageclass":"102",
+     "level" :"Prg",
+     "backNumber" :"",
+     "productnumber": 
+     "CH5128B160OHMPBJ1XC"
+   },
+   {
+     "storageclass":"103",
+     "level" :"Zrg",
+     "backNumber" :"",
+     "productnumber":
+      "CH5128B160OHMPBJ1ZX"
+   },
+   {
+     "storageclass":"104",
+     "level" :"Hrg",
+     "backNumber" :"",
+     "productnumber": 
+      "CH5128B160OHMPBJ1XM"
+   },
+   {
+     "storageclass":"105",
+     "level" :"Hrg",
+     "backNumber" :"",
+     "productnumber":    
+     "CH5128B160OHMPBJ1XB"
+   },
+   {
+     "storageclass":"106",
+     "level" :"Frg",
+     "backNumber" :"",
+     "productnumber": 
+     "CH5128B161OHMPBJ1XZ"
+   }
+   ],
+  "profile": {
+    "name": "typicode"
+  }
+}

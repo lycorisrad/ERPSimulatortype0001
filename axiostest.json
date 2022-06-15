@@ -1,0 +1,29 @@
+{
+  
+    "posts": [
+        {
+            "count": 10,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "var1": "Test",
+                    "var2": "",
+                    "NeededInfo": "name1"
+                },
+                {
+                    "var1": "Test",
+                    "var2": "",
+                    "NeededInfo": "name2"
+                }
+            ]
+        }
+     ],
+    "comments": [
+     
+    ],
+
+    "profile": {
+      "name": "typicode"
+    }
+  }

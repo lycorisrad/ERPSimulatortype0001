@@ -1,0 +1,267 @@
+{
+  
+    "posts": [
+        {
+            "id":"",
+            "vendor":"",
+            "pono":"",
+            "applicationperson":"",
+            "applicationdate":"",
+            "productpartnumber":"",
+            "amount":"",
+            "data":[
+               {
+                   "storageclass":"",
+                   "buynumber":"",
+                   "productcodename":"",
+                   "amount":"",
+                   "returnbackamount":"",
+                   "returnedamount":"",
+                   "consumetype":"",
+                   "type":"",
+                   "storageconfirm":"",
+                   "storageconfirmtime":"",
+                   "enterconfirm":"",
+                   "enterconfirmtime":""
+               }
+            ],
+            "data2":[
+                {
+                   "entertime":"",
+                   "enterspeices":"",
+                    "buynumber":"",
+                    "storageclass":"",
+                    "productcodename":"",
+                    "amount":"",
+                    "entermember":"",
+                    "package":"",
+                    "storage":"",
+                    "enternumber":"",
+                    "storageconfirmdate":"" 
+                }
+            ]
+        },
+        {
+            "id":"SF18010001",
+            "vendor":"LC007",
+            "pono":"",
+            "applicationperson":"Abby-S",
+            "applicationdate":"2018/2/12 上午 10:14:40",
+            "productpartnumber":"OTC-136BL2ZZ-2133PC",
+            "amount":"120",
+            "data":[
+               {
+                   "storageclass":"007",
+                   "buynumber":"0010701250002",
+                   "productcodename":"MTC-136BL2ZZ-2133PC",
+                   "amount":"120",
+                   "returnbackamount":"",
+                   "returnedamount":"",
+                   "consumetype":"SMT",
+                   "type":"無上料件",
+                   "storageconfirm":true,
+                   "storageconfirmtime":"2018/2/12 上午 10:43:09",
+                   "enterconfirm":false,
+                   "enterconfirmtime":""
+               }
+            ],
+            "data2":[
+                {
+                   "entertime":"2018/2/13 下午 04:21:13",
+                   "enterspeices":"PCB上料",
+                    "buynumber":"0010701250002",
+                    "storageclass":"007",
+                    "productcodename":"OTC-136BL2ZZ-2133PC",
+                    "amount":"120",
+                    "entermember":"Abby-S",
+                    "package":true,
+                    "storage":true,
+                    "enternumber":"M180200032-001",
+                    "storageconfirmdate":"2018/2/13 下午 04:21:21"
+                }
+            ]
+        },{
+            "id":"SF18020002",
+            "vendor":"0A001",
+            "pono":"",
+            "applicationperson":"Abby-S",
+            "applicationdate":"2018/2/12 上午 11:04:34",
+            "productpartnumber":"NTC-178BL3H1-2133PC",
+            "amount":"34",
+            "data":[
+               {
+                   "storageclass":"007",
+                   "buynumber":"0010609250005",
+                   "productcodename":"MTC-178BL3H1-2133PC",
+                   "amount":"34",
+                   "returnbackamount":"",
+                   "returnedamount":"",
+                   "consumetype":"SMT",
+                   "type":"無上料件",
+                   "storageconfirm":true,
+                   "storageconfirmtime":"2018/2/12 上午 11:15:56",
+                   "enterconfirm":false,
+                   "enterconfirmtime":""
+               }, {
+                "storageclass":"007",
+                "buynumber":"0010702080001",
+                "productcodename":"MPM-AB-T127SP",
+                "amount":"4000",
+                "returnbackamount":"",
+                "returnedamount":"",
+                "consumetype":"SMT",
+                "type":"無上料件",
+                "storageconfirm":true,
+                "storageconfirmtime":"2018/2/12 上午 11:16:39",
+                "enterconfirm":false,
+                "enterconfirmtime":""
+            }
+            ],
+            "data2":[
+                {
+                   "entertime":"2018/2/12 上午 11:40:59",
+                   "enterspeices":"半成品 - Pass",
+                    "buynumber":"SF18020002",
+                    "storageclass":"007",
+                    "productcodename":"NTC-178BL3H1-2133PC",
+                    "amount":"34",
+                    "entermember":"Abby-S",
+                    "package":true,
+                    "storage":true,
+                    "enternumber":"M180200030-001",
+                    "storageconfirmdate":"2018/2/12 上午 11:41:07"
+                }
+            ]
+        },{
+            "id":"SF18020003",
+            "vendor":"0A002",
+            "pono":"",
+            "applicationperson":"Abby-S",
+            "applicationdate":"2018/2/23 下午 01:51:08",
+            "productpartnumber":"OTC-048PNFH1-1600PC",
+            "amount":"742",
+            "data":[
+               {
+                   "storageclass":"007",
+                   "buynumber":"0010609270003",
+                   "productcodename":"MTC-048PNFH1-1600PC",
+                   "amount":"742",
+                   "returnbackamount":"",
+                   "returnedamount":"",
+                   "consumetype":"SMT",
+                   "type":"無上料件",
+                   "storageconfirm":true,
+                   "storageconfirmtime":"2018/2/23 下午 01:51:52",
+                   "enterconfirm":false,
+                   "enterconfirmtime":""
+               }
+            ],
+            "data2":[
+                {
+                   "entertime":"2018/2/23 下午 02:07:58",
+                   "enterspeices":"PCB上料",
+                    "buynumber":"0010609270003",
+                    "storageclass":"007",
+                    "productcodename":"OTC-048PNFH1-1600PC",
+                    "amount":"742",
+                    "entermember":"Abby-S",
+                    "package":true,
+                    "storage":true,
+                    "enternumber":"M180200050-001",
+                    "storageconfirmdate":"2018/2/23 下午 02:08:06"
+                }
+            ]
+        },{
+            "id":"SF18020003",
+            "vendor":"0AD001",
+            "pono":"",
+            "applicationperson":"Abby-S",
+            "applicationdate":"2018/2/23 下午 01:51:08",
+            "productpartnumber":"OTC-048PNFH1-1600PC",
+            "amount":"742",
+            "data":[
+               {
+                   "storageclass":"007",
+                   "buynumber":"0010609270003",
+                   "productcodename":"MTC-048PNFH1-1600PC",
+                   "amount":"742",
+                   "returnbackamount":"",
+                   "returnedamount":"",
+                   "consumetype":"SMT",
+                   "type":"無上料件",
+                   "storageconfirm":true,
+                   "storageconfirmtime":"2018/2/23 下午 01:51:52",
+                   "enterconfirm":false,
+                   "enterconfirmtime":""
+               }
+            ],
+            "data2":[
+                {
+                   "entertime":"2018/2/23 下午 02:07:58",
+                   "enterspeices":"PCB上料",
+                    "buynumber":"0010609270003",
+                    "storageclass":"007",
+                    "productcodename":"OTC-048PNFH1-1600PC",
+                    "amount":"742",
+                    "entermember":"Abby-S",
+                    "package":true,
+                    "storage":true,
+                    "enternumber":"M180200050-001",
+                    "storageconfirmdate":"2018/2/23 下午 02:08:06"
+                }
+            ]
+        }
+    ],
+    "comments": [
+     
+    ],
+    "listvendor":[
+        {
+            "vendor":"0A001"
+        },{
+            "vendor":"0A002"
+        },{
+            "vendor":"0AD001"
+        },{
+            "vendor":"0AD003"
+        },{
+            "vendor":"0ASI01"
+        },{
+            "vendor":"0AV001"
+        },{
+            "vendor":"0CH003"
+        },{
+            "vendor":"0CL006"
+        },{
+            "vendor":"0CT001"
+        }
+    ],
+    "listproductnumber":[
+        {
+        "productpartnumber":"8GBA8G320AEO3K813"
+    },{
+        "productpartnumber":"8GBA8G320AEO3K8134"
+    },{
+        "productpartnumber":"8GBA8G320AOO3K813"
+    },{
+        "productpartnumber":"8GBA8G320HEN5K813"
+    },{
+        "productpartnumber":"8GBA8G320HEN5K8134"
+    },{
+        "productpartnumber":"8GBA8G320HEO3K813"
+    }
+    ],
+    "listspecies":[
+       {
+           "enterspeices":"PCB上料"
+        },{
+            "enterspeices":"半成品 - Pass"
+         },{
+            "enterspeices":"半成品 - Fail"
+         }
+
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

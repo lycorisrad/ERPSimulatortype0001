@@ -1,0 +1,45 @@
+{
+  "comments": [
+    {
+      "level":"lime"
+    },{
+      "level":"mango"
+    },{
+      "level":"coconut"
+    },{
+      "level":"grapefruit"
+    }
+  ],
+  "posts": [
+    { 
+      "vendor":"PNY01",
+      "data":[{
+        "id": "client 1",
+        "description":"aaaaa",
+        "person":"vvbb",
+        "storageclass": "Anna",
+        "level": "lime"
+      },
+       {
+        "id": "client 2",
+        "description":"aaazzaa",
+        "person":"vvbbssss",
+        "storageclass": "Tom",
+        "level": "mango"
+      },
+      {
+        "id": "client 3",
+        "description":"aaawwwwaaa",
+        "person":"vvzzbb",
+        "storageclass": "Deb",
+        "level": "cocount"
+      }]
+    },{
+       "vendor":"PNY02",
+       "data":[{}]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

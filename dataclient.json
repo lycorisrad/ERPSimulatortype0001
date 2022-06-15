@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": "",
+      "vendorname": "",
+      "contactperson": "",
+      "commonnumber": "",
+      "fax": "",
+      "phonenumber": "",
+      "address": "",
+      "payment": "",
+      "shipaddress": ""
+    },
+    {
+      "id": "0A002",
+      "vendorname": "個人",
+      "contactperson": "",
+      "commonnumber": "",
+      "fax": "",
+      "phonenumber": "",
+      "address": "",
+      "payment": "",
+      "shipaddress": ""
+    },
+    {
+      "id": "0AD004",
+      "vendorname": "艾格創新科技有限公司",
+      "contactperson": "趙偉孝Steven",
+      "commonnumber": "54776541",
+      "fax": "03-346-6210",
+      "phonenumber": "03-346-6035#55",
+      "address": "桃園市桃園區藝文一街86之7號16樓",
+      "payment": "T/T",
+      "shipaddress": "Steven@aitc-tw.com"
+    },
+    {
+      "id": "0ARK001",
+      "vendorname": "益達儀器股份有限公司",
+      "contactperson": "",
+      "commonnumber": "28957497",
+      "fax": "aaa",
+      "phonenumber": "",
+      "address": "",
+      "payment": "",
+      "shipaddress": ""
+    },
+    {
+      "id": "0ASI001",
+      "vendorname": "昱聯科技股份有限公司",
+      "contactperson": "王S",
+      "commonnumber": "28873407",
+      "fax": "",
+      "phonenumber": "02-8226-1658",
+      "address": "新竹市公道五路二段180號",
+      "payment": "",
+      "shipaddress": ""
+    },
+    {
+      "id": "0AT001",
+      "vendorname": "ADTEC CORPORATION",
+      "contactperson": "",
+      "commonnumber": "",
+      "fax": "",
+      "phonenumber": "+81-3-3541-5080",
+      "address": "7F, CENTER BLDG., MACHIDA TECHNO PARK 2-2-5-8, OYAMAGAOKA, MACHIDA-SHI, TOKYO, JAPAN. 194-0215",
+      "payment": "",
+      "shipaddress": ""
+    },
+    {
+      "id": "0AV001",
+      "vendorname": "AVISTA",
+      "contactperson": "",
+      "commonnumber": "42605516",
+      "fax": "",
+      "phonenumber": "0.-5506688",
+      "address": "新竹縣竹北市中興里復興三路二段102號",
+      "payment": "",
+      "shipaddress": ""
+    },
+    {
+      "id": "aaa",
+      "vendorname": "aaa",
+      "contactperson": "a",
+      "commonnumber": "",
+      "fax": "",
+      "phonenumber": "",
+      "address": "",
+      "payment": "",
+      "shipaddress": ""
+    }
+  ],
+  "listpayment": [
+    {
+      "payment": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

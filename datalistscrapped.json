@@ -1,0 +1,83 @@
+{
+  
+    "posts": [
+        {
+            "id":"",
+            "vendor":"",
+            "pono":"",
+            "applicationperson":"",
+            "applicationdate":"",
+            "productpartnumber":"",
+            "amount":"",
+            "data":[
+               {
+                   "storageclass":"",
+                   "buynumber":"",
+                   "productcodename":"",
+                   "amount":"",
+                   "returnbackamount":"",
+                   "returnedamount":"",
+                   "consumetype":"",
+                   "type":"",
+                   "storageconfirm":"",
+                   "storageconfirmtime":"",
+                   "enterconfirm":"",
+                   "enterconfirmtime":""
+               }
+            ],
+            "data2":[
+                {
+                   "entertime":"",
+                   "enterspeices":"",
+                    "buynumber":"",
+                    "storageclass":"",
+                    "productcodename":"",
+                    "amount":"",
+                    "entermember":"",
+                    "package":"",
+                    "storage":"",
+                    "enternumber":"",
+                    "storageconfirmdate":"" 
+                }
+            ]
+        }
+    ],
+    "comments": [
+     
+    ],
+    "listvendorcodename":[
+        {
+            "vendorcodename":"0A001"
+        },{
+            "vendorcodename":"0A003"
+        }
+    ],
+    "listproductnumber":[
+        {
+        "productpartnumber":"8GBA8G320AEO3K813"
+    },{
+        "productpartnumber":"8GBA8G320AEO3K8134"
+    },{
+        "productpartnumber":"8GBA8G320AOO3K813"
+    },{
+        "productpartnumber":"8GBA8G320HEN5K813"
+    },{
+        "productpartnumber":"8GBA8G320HEN5K8134"
+    },{
+        "productpartnumber":"8GBA8G320HEO3K813"
+    }
+    ],
+    "listspecies":[
+       {
+           "enterspeices":"PCB上料"
+        },{
+            "enterspeices":"半成品 - Pass"
+         },{
+            "enterspeices":"半成品 - Fail"
+         }
+
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

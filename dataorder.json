@@ -1,0 +1,236 @@
+{
+  
+    "posts": [
+       {
+        "id":"",
+        "date":{
+            "date1": ""
+        },
+        "PONO": "",
+        "buynumber":"",
+        "vendor":"",
+        "description":"",
+        "data":{
+            "item":"",
+            "pregivedate":"",
+            "productnumber":"",
+            "price": "",
+            "amount":"",
+            "PASSandFail":"",
+            "outed":"",
+            "unouted":"",
+            "storageclass":"",
+            "exchangerate":""
+        }
+       },{
+        "id":"2010501060001",
+        "date":{
+            "date1": "2017-05-24"
+        },
+        "PONO": "PO-160105000009",
+        "buynumber":"2010501060001",
+        "vendor":"PY03",
+        "description":"1.PO:PO-160105000009 2.PAYMENT:貨到14天3.RATE:32.685",
+        "data":[{
+            "item":"PY03-01",
+            "pregivedate":"2016/1_/6",
+            "productnumber":"DE2GB18L800",
+            "price": "",
+            "amount":"500",
+            "PASSandFail":"Pass",
+            "outed":"500",
+            "unouted":"0",
+            "storageclass":"001",
+            "exchangerate":"1",
+            "spefiction":"U:11.2;FOR800;CL5;64B0QJTHE8G17-NG;2GB,DDR2,DIMM,800MHZ"
+        },{
+            "item":"PY03-02",
+            "pregivedate":"2016/1_/6",
+            "productnumber":"DE2GB18S800",
+            "price": "",
+            "amount":"100",
+            "PASSandFail":"Pass",
+            "outed":"100",
+            "unouted":"0",
+            "storageclass":"001",
+            "exchangerate":"1",
+            "spefiction":"U:11.2;FOR800;CL5;64B0QJTYE8G17-NG;2GB,DDR2,SODIMM,800MHZ"
+        },{
+            "item":"PY03-03",
+            "pregivedate":"2016/1_/6",
+            "productnumber":"DH2GB28S133",
+            "price": "",
+            "amount":"20",
+            "PASSandFail":"Pass",
+            "outed":"20",
+            "unouted":"0",
+            "storageclass":"001",
+            "exchangerate":"1",
+            "spefiction":"U:8.7;FOR1333;CL9;64B0MHHNJ8G09-NG;2GB,DDR3,SODIMM,1333MHZ"
+        }
+    ]
+       },{
+            "id":"2010501120001",
+            "date":{
+                "date1": "2018-05-24"
+            },
+            "PONO": "PO-160111000093",
+            "buynumber":"2010501120001",
+            "vendor":"PY02",
+            "description":"1.PO:PO-160111000093 2.PAYMENT:貨到14天 3.RATE:33",
+            "data":[{
+                "item":"PY03-01",
+                "pregivedate":"2016/1_/12",
+                "productnumber":"DE2GB18S800",
+                "price": "",
+                "amount":"150",
+                "PASSandFail":"Pass",
+                "outed":"150",
+                "unouted":"0",
+                "storageclass":"001",
+                "exchangerate":"1",
+                "spefiction":"U:11.2;FOR800;CL5;64B0QJTYE8G17-NG;2GB,DDR2,SODIMM,800MHZ"
+            },{
+                "item":"PY03-02",
+                "pregivedate":"2016/1_/12",
+                "productnumber":"DE2GB18L800",
+                "price": "",
+                "amount":"200",
+                "PASSandFail":"Pass",
+                "outed":"200",
+                "unouted":"0",
+                "storageclass":"001",
+                "exchangerate":"1",
+                "spefiction":"U:11.2;FOR800;CL5;64B0QJTHE8G17-NG;2GB,DDR2,DIMM,800MHZ"
+            },{
+                "item":"PY03-03",
+                "pregivedate":"2016/1_/12",
+                "productnumber":"DD1GB68L400",
+                "price": "",
+                "amount":"150",
+                "PASSandFail":"Pass",
+                "outed":"200",
+                "unouted":"0",
+                "storageclass":"001",
+                "exchangerate":"1",
+                "spefiction":"U:14;FOR400;CL3;64A0TQDXA8G16-NG;1GB,DDR,DIMM,400MHZ"
+            }
+        ]
+       },{
+        "id":"2010501180002",
+        "date":{
+            "date1": "2016-01-18"
+        },
+        "PONO": "PO-160115000146",
+        "buynumber":"2010501180002",
+        "vendor":"PY03",
+        "description":"1.PO:PO-160115000146 2.PAYMENT:貨到14天 3.RATE:33",
+        "data":[{
+            "item":"PY03-01",
+            "pregivedate":"2016/1_/19",
+            "productnumber":"DH4GB58L160",
+            "price": "",
+            "amount":"800",
+            "PASSandFail":"Pass",
+            "outed":"800",
+            "unouted":"0",
+            "storageclass":"001",
+            "exchangerate":"1",
+            "spefiction":"U:13;FOR1600;CL11;64C0JKHHJ8G09;4GB,DDR3,DIMM,1600MHZ"
+        }
+    ]
+   },{
+    "id":"2010501260001",
+    "date":{
+        "date1": "2016-06-18"
+    },
+    "PONO": "PO-160125000216",
+    "buynumber":"2010501260001",
+    "vendor":"PY03",
+    "description":"1.PO:PO-160125000216 2.PAYMENT:貨到14天 3.RATE:33.495",
+    "data":[{
+        "item":"PY03-01",
+        "pregivedate":"2016/1_/27",
+        "productnumber":"DE2GB18S800",
+        "price": "",
+        "amount":"1200",
+        "PASSandFail":"Pass",
+        "outed":"1200",
+        "unouted":"0",
+        "storageclass":"001",
+        "exchangerate":"1",
+        "spefiction":"U:13;FOR1600;CL11;64C0JKHHJ8G09;4GB,DDR3,DIMM,1600MHZ"
+    },{
+        "item":"PY03-02",
+        "pregivedate":"2016/1_/27",
+        "productnumber":"DE2GB18L800",
+        "price": "",
+        "amount":"1200",
+        "PASSandFail":"Pass",
+        "outed":"1200",
+        "unouted":"0",
+        "storageclass":"001",
+        "exchangerate":"1",
+        "spefiction":"U:9.8;FOR800;CL5;64B0QJTHE8G17-NG;2GB,DDR2,DIMM,800MHZ"
+    }
+]
+}
+    ],
+    "comments": [
+     
+    ],
+    "listvendor":[
+        {
+          "vendor":"0A002"
+        },{
+            "vendor": "0A003"
+        },{
+            "vendor" :"0AD001"
+        },{
+            "vendor" :"0AD002"
+         },{
+             "vendor":"0AD003"
+         },{
+             "vendor":"0AD004"
+         },{
+             "vendor":"0ARK001"
+         }
+    ],
+    "listproductnumber":[
+        {
+            "productnumber":"DE2GB18S800"
+          },{
+              "productnumber": "DE2GB24L667"
+          },{
+              "productnumber" :"DE2GB28L667"
+          },{
+              "productnumber" :"DE2GB28L800"
+           },{
+               "productnumber":"DE2GB28S800"
+           },{
+               "productnumber":"DE2GB88L667"
+           },{
+               "productnumber":"DE4GB28L133"
+           }
+    ],
+    "listPassandFail":[
+        {"PASSandFail" : "Pass"},
+        {"PASSandFail" : "Fail"},
+        {"PASSandFail" : "待測"}
+    ],
+    "liststorageclass":[
+        {"storageclass":"001"},
+        {"storageclass":"002"},
+        {"storageclass":"003"},
+        {"storageclass":"004"},
+        {"storageclass":"005"},
+        {"storageclass":"101"},
+        {"storageclass":"102"}
+
+    ],
+    
+    
+    "profile": {
+      "name": "typicode"
+    }
+  }

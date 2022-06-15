@@ -1,0 +1,330 @@
+{
+    "data":[
+        {
+          
+        }
+    ],
+    "listpickingspecification":[
+          {
+              "pickingspecification":"CH5128B186OTV5TN2TZ"
+          },{
+            "pickingspecification":"CH2568B133FNXXXK4TE"
+          },{
+            "pickingspecification":"CG1GB8B266EHXXXO3T4"
+        },{
+          "pickingspecification":"DE2GB18L800EFN6C2UEC"
+        },{
+            "pickingspecification":"CG1GB8B213EHXXXO3XU"
+        },{
+          "pickingspecification":"DE2GB18S800EON4G51RB"
+        }
+    ],
+    "listiclevel":[
+          {
+              "iclevel":"UTT"
+          },{
+            "iclevel":"ETTT"
+          },{
+            "iclevel":"FTT"
+        },{
+          "iclevel":"AUBE"
+        },{
+            "iclevel":"AUCG"
+        },{
+          "iclevel":"AU3C"
+        }
+    ],
+    "listicsize":[
+        {
+            "icsize":"10.2x18.2" 
+        },{
+            "icsize":"10.3x11"
+        },{
+            "icsize":"10.5x10" 
+        },{
+            "icsize":"10.5x11.5"
+        },{
+            "icsize":"10.5x12" 
+        },{
+            "icsize":"10.5x13"
+        }
+    ],
+    "listvendor":[
+        {
+            "vendor":"GH" 
+        },{
+            "vendor":"GH/LU"
+        },{
+            "vendor":"GH001" 
+        },{
+            "vendor":"GH002"
+        },{
+            "vendor":"GH003" 
+        },{
+            "vendor":"GHF"
+        }
+    ],
+    "listclient":[
+        {
+            "client":"PY02"
+        },{
+            "client":"PY03"
+        },
+        {
+            "client":"SC"
+        }, {
+            "client":"SCSC"
+        },{
+            "client":"SH002"
+        },
+        {
+            "client":"ST001"
+        }
+    ],
+    "listorderATR":[
+        {
+        "orderATR":"AD15081"
+        }
+    ],
+    "listshipping":[
+        {
+            "shipping":"0ASI0001"
+        },{
+            "shipping":"0BB001"
+        },{
+            "shipping":"0ASI0001"
+        },{
+            "shipping":"0CB001"
+        },{
+            "shipping":"0CG004"
+        },{
+            "shipping":"0CH003"
+        }
+    ],
+    "listpcbNo":[
+         {
+             "pcbno":""
+         }
+    ],
+    "listspdCL":[
+        {
+            "spdCL":"2.5"
+        },{
+            "spdCL":"3"
+        },{
+            "spdCL":"4/4/4"
+        },{
+            "spdCL":"5/5/5"
+        },{
+            "spdCL":"6/6/6"
+        },{
+            "spdCL":"7/7/7"
+        }
+    ],
+    "listtestclass":[
+        {
+            "testclass":"SMT測試"
+        },{
+            "testclass":"成品進貨測試"
+        },{
+            "testclass":"庫存貨測試"
+        },{
+            "testclass":"客退品測試"
+        },{
+            "testclass":"上料件"
+        }
+    ],
+    "listenterdie":[
+        {"enterdie":"H"
+        },{
+            "enterdie":"Aeneon"
+        },{"enterdie":"AP"
+            },{
+                "enterdie":"blank"
+            },{"enterdie":"China"
+                },{
+                    "enterdie":"CXMT"
+                }
+    ],
+    "listenterfrequency":[
+        {
+            "enterfrequency":"100Mbps"
+        },{
+            "enterfrequency":"1066Mbps"
+        },{
+            "enterfrequency":"1100Mbps"
+        },{
+            "enterfrequency":"128GB"
+        },{
+            "enterfrequency":"12Gb"
+        },{
+            "enterfrequency":"1333Mbps"
+        }
+    ],
+    "listChannel":[
+        {
+            "Channel":"Single Channel"
+        },{
+            "Channel":"Dual Channel"
+        }, {
+            "Channel":"Triple Channel"
+        },{
+            "Channel":"Full Loading"
+        }, {
+            "Channel":"Quad Channel"
+        }
+    ],
+    "listSystemtestType":[
+        {
+            "SystemtestType":"Passmark Memtest86"
+        },{
+            "SystemtestType":"PassMark Memtest 6.1 Free"
+        },{
+            "SystemtestType":"Normal 5%"
+        },{
+            "SystemtestType":"Downgrad 1Loop"
+        },{
+            "SystemtestType":"GM 7.7"
+        },{
+            "SystemtestType":"Downgrad 1Loop"
+        }
+    ],
+    "listVolt":[
+        {
+            "Volt":"1.5V"
+        },{
+            "Volt":"1.9V"
+        },{
+            "Volt":"2.1V"
+        },{
+            "Volt":"Auto"
+        },{
+            "Volt":"1.4V"
+        },{
+            "Volt":"超5%"
+        }
+    ],
+    "listMotherboardspecification":[
+        {
+            "Motherboardspecification":"HT-5064"
+        },{
+            "Motherboardspecification":"Intel H81(MSI H81M-P33)"
+        },    {
+            "Motherboardspecification":"Intel Z97 (ASUS Z97-P)"
+        },{
+            "Motherboardspecification":"M330"
+        },    {
+            "Motherboardspecification":"TC-2133"
+        },{
+            "Motherboardspecification":"TCII"
+        }
+    ],
+    "listMotherboardspecification2":[
+        {
+            "Motherboardspecification2":"HT-5064"
+        },{
+            "Motherboardspecification2":"Intel H81(MSI H81M-P33)"
+        },    {
+            "Motherboardspecification2":"Intel Z97 (ASUS Z97-P)"
+        },{
+            "Motherboardspecification2":"M330"
+        },    {
+            "Motherboardspecification2":"TC-2133"
+        },{
+            "Motherboardspecification2":"TCII"
+        }
+    ],
+    "listtransferintype":[
+        {
+            "transferintype":"Module"
+        },{
+            "transferintype":"IC"
+        }
+    ],
+    "listtransferouttype":[
+        {
+            "transferouttype":"Module"
+        },{
+            "transferouttype":"IC"
+        }
+    ],
+    "listtransfertype":[
+        {
+             "transfertype":"Module"
+        },{
+             "transfertype":"IC"
+        }
+    ],
+    "listpcbCL":[
+         {
+             "pcbCL":"2/3/3/6"
+         }
+    ],
+            "listnameproduct1": [
+                {
+                    "nameproduct1":"DDRIII"
+                },{
+                    "nameproduct1":"D/G"
+                },{
+                    "nameproduct1":"UFD PCBA"
+                },{
+                    "nameproduct1":"SDCard"
+                }
+            ],
+            "listnameproduct2": [
+                {
+                    "nameproduct2": "Long-D"
+                },{
+                    "nameproduct2":"SO-D"
+                },{
+                    "nameproduct2":"Server-D"
+                },{
+                    "nameproduct2":"Micro-D"
+                }
+            ],
+            "listnameproduct3": [
+                {
+                    "nameproduct3":"1866MHz"
+                },{
+                    "nameproduct3":"100Mbps"
+                },{
+                    "nameproduct3":"133Mbps"
+                },{
+                    "nameproduct3":"266Mbps"
+                }
+            ],
+            "listnameproduct4": [
+                {
+                    "nameproduct4":"Hynix"
+                },
+                {
+                    "nameproduct4":"Nanya-CSPII"
+                },{
+                    "nameproduct4":"Winbond"
+                },{
+                    "nameproduct4":"Elixir"
+                }
+            ],
+            "listnameproduct5": [
+                {
+                    "nameproduct5":"TSOP"
+                },{
+                    "nameproduct5":"BGA"
+                },{
+                    "nameproduct5":"CSPII"
+                },{
+                    "nameproduct5":"LGA"
+                }
+            ],
+            "listnameproduct6": [
+                {
+                   "nameproduct6":"8  x 8" 
+                },{
+                    "nameproduct6":"64 x 8A"
+                },{
+                    "nameproduct6":"64 x 8C"
+                },{
+                    "nameproduct6":"64 x 8J"
+                }
+            ]
+}

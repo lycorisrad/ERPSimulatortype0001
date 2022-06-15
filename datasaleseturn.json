@@ -1,0 +1,197 @@
+{
+  
+    "posts": [
+       {
+        "id":"2110507280001",
+        "salesoff":true,
+        "salesreturn":false,
+        "vendor":"PY02",
+        "date":{
+            "date1": "2016-01-18"
+        },
+        "description":"1.PO:218226 2.PAYMENT:貨到14天 3.RATE:32.38 4.報單號碼:CU0557BJ3865 5.2010506300001",
+        "data":[
+            {
+            "shipnumber":"2010506300001",
+            "PONO":"218226",
+            "productnumber":"BP3256B8I2NQJ",
+            "PCBNO":"PS2251-08",
+            "buynumber":"1010806200001",
+            "level":"Org",
+            "price":"31.7000007629395",
+            "coupon":"350.2",
+            "shipamount":"13335",
+            "shipreturn":"0",
+            "exchangerate":"3800010681152",
+            "domesticandforeign":"國外",
+            "usandnt":"US",
+            "storageconfirm":false,
+            "storageconfirmdate":""
+        }
+    ]
+       },{
+        "id":"2110507180001",
+        "salesoff":true,
+        "salesreturn":false,
+        "vendor":"0GC002",
+        "date":{
+            "date1": "2016-01-18"
+        },
+        "description":"1.PO:PO16010011 2.PAYMENT:T/T in advance 3.RATE:33.622",
+        "data":[
+            {
+            "shipnumber":"2010501260001",
+            "PONO":"PO16010011",
+            "productnumber":"CH2566B160OABK0IBTM",
+            "PCBNO":"",
+            "buynumber":"1010410300015",
+            "level":"Org",
+            "price":"1.45000004768372",
+            "coupon":"1.45000004768372",
+            "shipamount":"690",
+            "shipreturn":"75",
+            "exchangerate":"33.622001647949",
+            "domesticandforeign":"國內",
+            "usandnt":"US",
+            "storageconfirm":true,
+            "storageconfirmdate":"2016/7/18 下午 03:30:30"
+        }, {
+            "shipnumber":"2010501260001",
+            "PONO":"PO16010011",
+            "productnumber":"CH2566B160OHAPBK4TM",
+            "PCBNO":"",
+            "buynumber":"1010410300013",
+            "level":"Org",
+            "price":"1.45000004768372",
+            "coupon":"1.45000004768372",
+            "shipamount":"4013",
+            "shipreturn":"510",
+            "exchangerate":"33.6220016479492",
+            "domesticandforeign":"國內",
+            "usandnt":"US",
+            "storageconfirm":true,
+            "storageconfirmdate":"2016/7/18 下午 03:30:30"
+        }
+    ]
+       },{
+        "id":"2110509220001",
+        "salesoff":false,
+        "salesreturn":true,
+        "vendor":"0YJ001",
+        "date":{
+            "date1": "2018-02-22"
+        },
+        "description":"1.PO:16090216 2.PAYMENT:貨到14天 3.RATE:31.716",
+        "data":[
+            {
+            "shipnumber":"2010509130002",
+            "PONO":"16090216",
+            "productnumber":"DH4GB58L160PEK9K647M",
+            "PCBNO":"KO-60247",
+            "buynumber":"1010506200008",
+            "level":"ETTT",
+            "price":"13.5",
+            "coupon":"13.5",
+            "shipamount":"163",
+            "shipreturn":"13",
+            "exchangerate":"31.7159996032715",
+            "domesticandforeign":"國內",
+            "usandnt":"US",
+            "storageconfirm":true,
+            "storageconfirmdate":"2016/9/22 下午 05:49:43"
+        }
+    ]
+       },{
+    "id":"2110510060001",
+    "salesoff":false,
+    "salesreturn":true,
+    "vendor":"0YJ001",
+    "date":{
+        "date1": "2016-06-21"
+    },
+    "description":"1.PO:16090306 2.PAYMENT:貨到14天 3.RATE:31.43 4.原銷貨單號:2010509220001",
+    "data":[
+        {
+        "shipnumber":"2010509220001",
+        "PONO":"16090306",
+        "productnumber":"DH4GB58L160PEK9K647M",
+        "PCBNO":"KO-60247",
+        "buynumber":"1010506200008",
+        "level":"ETTT",
+        "price":"13.8000001907349",
+        "coupon":"13.8000001907349",
+        "shipamount":"2000",
+        "shipreturn":"154",
+        "exchangerate":"31.4300003051758",
+        "domesticandforeign":"國內",
+        "usandnt":"US",
+        "storageconfirm":true,
+        "storageconfirmdate":"2016/10/6 下午 01:53:00"
+    }
+]
+   }
+    ],
+    "comments": [
+     
+    ],
+    "listvendor":[
+        {
+            "vendor":"0A001"
+          },
+        {
+          "vendor":"0A002"
+        },{
+            "vendor": "0A003"
+        },{
+            "vendor" :"0AD001"
+        },{
+            "vendor" :"0AD002"
+         },{
+             "vendor":"0AD003"
+         },{
+             "vendor":"0AD004"
+         },{
+             "vendor":"0ARK001"
+         }
+    ],
+    "listship":[
+        {
+            "shipnumber":"2010509220001"
+          },{
+              "shipnumber": "2010501050002"
+          },{
+              "shipnumber" :"2010501050003"
+          },{
+              "shipnumber" :"2010501060003"
+           },{
+               "shipnumber":"2010501060004"
+           },{
+               "shipnumber":"2010501070002"
+           },{
+               "shipnumber":"2010501070003"
+           }
+    ],
+    "listproductnumber":[
+        {"productnumber":""}
+    ],
+    "listPONo":[
+       {"PONO":""}
+    ],
+    "listPCBNO":[
+        {"PCBNO":""}
+    ],
+    "listlevel":[
+         {"level":"Org"},
+         {"level":"UTT"},
+         {"level":"ETTT"},
+         {"level":"FTT"},
+         {"level":"AUBE"},
+         {"level":"AUCG"},
+         {"level":"AFBE"},
+         {"level":"AFCG"}
+    ],
+
+    "profile": {
+      "name": "typicode"
+    }
+  }
